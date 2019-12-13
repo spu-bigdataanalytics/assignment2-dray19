@@ -10,6 +10,6 @@ In task two, resizing the images, the library “multiprocessing” was used. Th
 
 In both instances using multithreading or multiprocessing showed an improvement in the speed from the serial-programmed application. Understanding if it is a I/O bound operation or CPU bound operation is the key to choosing which technique is needed to speed up the serial-programmed application.
 
-test 2
+
 
 
